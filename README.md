@@ -1,7 +1,7 @@
 # RFM-Analysis-Customers-Purchase-Behavior
 RFM analysis is a marketing technique that categorizes customers based on their Recency, Frequency and Monetary value. Recency evaluates how recent a customer made a purchase. Frequency assesses how often a customer makes purchase while monetary value measures the total amount spent by a customer. This allows targeted marketing strategies and help business to optimize marketing effort and improve customer retention. 
 
-This project showcases my knowlwdge of data management, data mining, best practice and tools, BI reporting, data engineering, preparation and transformation platform   
+This project showcases my knowledge of data management, data mining, best practice and tools, BI reporting, data engineering, preparation and transformation platform   
 
 
 ![Introduction](https://github.com/Dejokeoluolatunji/RFM-Analysis-Customers-Purchase-Behavior-/assets/148403480/b2e678e8-1e5d-4725-86dd-26cdae9b9368)
